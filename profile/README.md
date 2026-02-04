@@ -1,7 +1,5 @@
 # Cadence
 
-Official organization for Cadence.
-
 ## Quick Links
 - [Website](https://noslop.tech)
 - [Documentation](https://noslop.tech/docs)
