@@ -2,6 +2,7 @@
 
 ## Quick Links
 - [Website](https://noslop.tech)
+- [Core Repo](https://github.com/TryCadence/Cadence)
 - [Documentation](https://noslop.tech/docs)
 - [Releases](https://github.com/TryCadence/Cadence/releases)
 - [Issues](https://github.com/TryCadence/Cadence/issues)
